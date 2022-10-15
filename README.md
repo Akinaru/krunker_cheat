@@ -1,3 +1,3 @@
-Cheat that unlock skins on krunker.IO !
+Browser extension Cheat that unlock skins on krunker.IO !
 
 WARN: Only client side !
